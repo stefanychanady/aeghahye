@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: http://ciedoodoja.adalberth.com/sitemap.xml
